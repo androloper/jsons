@@ -27,6 +27,7 @@
         "Freight": 61.0200
     },
         {
+            "ShipAddress": "Obere Str. 57",
             "ShipName": "Alfred's Futterkiste",
             "ShipCity": "Berlin",
             "ShipRegion": null,
